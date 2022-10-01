@@ -13,7 +13,7 @@ const fetchAdvice = async () => {
 }
 
 
-// fetchAdvice();
+fetchAdvice();
 
 
 
